@@ -1,0 +1,18 @@
+
+*{
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+header {
+
+    width: auto;
+    height: 150px;
+    color: whitesmoke;
+    padding: 20px;
+    background: lightslategray;
+}
+
+.header nav {
+    float: left
+}
